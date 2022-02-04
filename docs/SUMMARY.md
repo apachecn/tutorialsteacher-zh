@@ -93,7 +93,7 @@
 +   [ASP.NET MVC 文件夹结构](093.md)
 +   [MVC 中的路由](094.md)
 +   [ASP.NET MVC 中的控制器](095.md)
-+   [行动方法](096.md)
++   [操作方法](096.md)
 +   [动作选择器](097.md)
 +   [动作动词:HttpGet、HttpPost、HttpPut](098.md)
 +   [ASP.NET MVC 中的模型](099.md)
