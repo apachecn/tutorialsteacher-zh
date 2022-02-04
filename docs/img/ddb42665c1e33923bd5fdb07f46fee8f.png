@@ -1,0 +1,307 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Page Not Found</title>
+    <script src="/cdn-cgi/apps/head/pPXHlLb1CGI6YEB-9-_z05e8AO8.js"></script><link type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" />
+    <link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link href="/Content/css/ttstyle.min.css?v=1" rel="stylesheet" type="text/css" />
+    <!--[if lt IE 9]>
+          <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body>
+    <!-- wrapper -->
+    <div class="phWrapper">
+        <header class="phHeader">
+            <nav class="navbar navbar-expand logo-link">
+                <a class="navbar-brand text-uppercase" href="https://www.tutorialsteacher.com">
+                    <img src="/Content/images/tt-logo2.png" alt="LOGO" />
+                </a>
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav nav-flex-icons ml-auto">
+                        <li class="followus">Follow Us</li>
+                        <li class="nav-item">
+                            <a class="nav-link fb-icon" href="https://www.facebook.com/tutorialsteacher" title="Facebook" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link tw-icon" href="https://twitter.com/tutorialstchr" title="Twitter" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+                        </li>
+                    </ul>
+                </div>
+            </nav>
+
+        </header>
+        <nav class="navbar navbar-expand navbar-dark special-color-dark topMenuHorizontal sticky-top">
+
+            <!-- Navbar brand -->
+            <!-- Collapse button -->
+            <button class="navbar-toggler d-block d-md-none" type="button" data-toggle="collapse" data-target="#navbarLeft" aria-controls="#navbarLeft"
+                    aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <!-- Collapsible content -->
+            <div class="collapse navbar-collapse" id="topMenu">
+
+                <!-- Links -->
+                <ul class="navbar-nav mr-auto left">
+                    <li class="nav-item">
+                        <a href="/" class="nav-link" style="font-size:20px">
+                            <i class="fa fa-home" aria-hidden="true"></i>
+                        </a>
+                    </li>
+                    <li class="nav-item"><a class="nav-link" href="/python">Python</a></li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/core">ASP.NET Core</a>
+                    </li>
+                    <li class="nav-item"><a class="nav-link" href="/mvc/asp.net-mvc-tutorials"> MVC</a></li>
+                    <li class="nav-item"><a class="nav-link" href="/ioc">IoC  </a></li>
+                    <li class="nav-item"><a class="nav-link" href="/webapi/web-api-tutorials">Web API</a></li>
+                    <li class="nav-item"><a class="nav-link" href="/csharp/csharp-tutorials">C#</a></li>
+                    <li class="nav-item"><a class="nav-link" href="/typescript">TypeScript</a></li>
+                    <li class="nav-item"><a class="nav-link" href="/nodejs/nodejs-tutorials">Node.js</a></li>
+                    <li class="nav-item dropdown mega-dropdown">
+                        <a class="nav-link dropdown-toggle no-caret" id="navbarDropdownMenuLink1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">More</a>
+                        <div class="dropdown-menu mega-menu v-2 row z-depth-1 special-color" aria-labelledby="navbarDropdownMenuLink1">
+                            <a class="close text-white">&#10005; </a>
+                            <div class="row mx-md-4 mx-1">
+                                <div class="col-md-3 col-sm-6 col-xl-3 sub-menu my-xl-4 mt-4 mb-4">
+                                    <h6 class="sub-title text-white">.NET Tutorials</h6>
+                                    <ul class="caret-style pl-0">
+                                        <li class=""><a class="menu-item" href="/core">ASP.NET Core</a></li>
+                                        <li class=""><a class="menu-item" href="/mvc/asp.net-mvc-tutorials">ASP.NET MVC</a></li>
+                                        <li class=""><a class="menu-item" href="/ioc">IoC  </a></li>
+                                        <li class=""><a class="menu-item" href="/webapi/web-api-tutorials">web api</a></li>
+                                        <li class=""><a class="menu-item" href="/csharp/csharp-tutorials">C#</a></li>
+                                        <li class=""><a class="menu-item" href="/linq/linq-tutorials">LINQ</a></li>
+                                    </ul>
+                                </div>
+                                <div class="col-md-3 col-sm-6 col-xl-3 sub-menu my-xl-4  mt-4 mb-4">
+                                    <h6 class="sub-title text-white">Script Tutorials</h6>
+                                    <!--Featured image-->
+                                    <ul class="caret-style pl-0">
+                                        <li class=""><a class="menu-item" href="/typescript">TypeScript</a></li>
+                                        <li class=""><a class="menu-item" href="/angularjs/angularjs-tutorials">AngularJS</a></li>
+                                        <li class=""><a class="menu-item" href="/nodejs/nodejs-tutorials">Node.js</a></li>
+                                        <li class=""><a class="menu-item" href="/d3js">D3.js</a></li>
+                                        <li class=""><a class="menu-item" href="/jquery/jquery-tutorials">jQuery</a></li>
+                                        <li class=""><a class="menu-item" href="/javascript/javascript-tutorials">JavaScript </a></li>
+                                    </ul>
+                                </div>
+                                <div class="col-md-3 col-sm-6 col-xl-3 sub-menu my-xl-4 mt-4 mb-4">
+                                    <h6 class="sub-title text-white">Tutorials</h6>
+                                    <!--Featured image-->
+                                    <ul class="caret-style pl-0">
+                                        <li class=""><a class="menu-item" href="/python">Python</a></li>
+                                        <li class=""><a class="menu-item" href="/sass">Sass</a></li>
+                                        <li class=""><a class="menu-item" href="/https">Https</a></li>
+                                    </ul>
+                                </div>
+                                <div class="col-md-3 col-sm-6 col-xl-3 sub-menu my-xl-4 mt-4 mb-4">
+                                    <h6 class="sub-title  text-white">Skill Tests</h6>
+                                    <ul class="caret-style pl-0">
+                                        <li class=""><a class="menu-item" href="/online-test/aspnetcore-test">ASP.NET Core</a></li>
+                                        <li class=""><a class="menu-item" href="/online-test/mvc-test">ASP.NET MVC</a></li>
+                                        <li class=""><a class="menu-item" href="/online-test/linq-test">LINQ</a></li>
+                                        <li class=""><a class="menu-item" href="/online-test/csharp-test">C#</a></li>
+                                        <li class=""><a class="menu-item" href="/online-test/webapi-test">web api</a></li>
+                                        <li class=""><a class="menu-item" href="/online-test/ioc-test">IoC  </a></li>
+                                        <li class=""><a class="menu-item" href="/online-test/typescript-test">TypeScript</a></li>
+                                        <li class=""><a class="menu-item" href="/online-test/angularjs-test">AngularJS</a></li>
+                                        <li class=""><a class="menu-item" href="/online-test/nodejs-test">Node.js</a></li>
+                                        <li class=""><a class="menu-item" href="/online-test/jquery-test"> jQuery </a></li>
+                                        <li class=""><a class="menu-item" href="/online-test/javascript-test"> JavaScript</a></li>
+                                    </ul>
+
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+
+                </ul>
+
+                <!-- Links -->
+                <ul class="navbar-nav nav-flex right ml-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="/articles">Articles</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/online-test">Tests</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/aboutus/write-for-us">Write For Us</a>
+                    </li>
+                </ul>
+                <!-- Search form -->
+                <div id="wrap">
+                    <form class="navbar-form" action="https://www.google.com/search" id="cse-search-box" role="search" target="_blank">
+                        <div>
+                            <input type="hidden" name="cx" value="partner-pub-7448309248176309:9010588392" />
+                            <input type="hidden" name="ie" value="UTF-8" />
+                            <input type="text" name="q" id="q" placeholder="Search" class="form-control">
+                            <span class="input-group-btn">
+                                <button type="submit" id="search_submit" class="button-search border-0 bg-transparent text-white">
+                                    <i class="fa fa-search">
+                                    </i>
+                                </button>
+                            </span>
+                        </div>
+                    </form>
+                </div>
+            </div>
+            <!-- Collapsible content -->
+        </nav>
+
+        <!--Navbar-->
+        <!--/.Navbar-->
+        <section>
+            <div class="container-fluid">
+                <div class="row" style="min-height:300px">
+                    <div class="col-xl-12" >
+                        <center class="mt-4">
+                            <img style="" src="/Content/images/oops.jpg" />
+                            <p style="text-align:center; font-size:20px;">The page you were looking for could not be found. <br /> You may have typed the wrong URL on accident. </p>
+                        </center>
+                    </div>
+                </div>
+            </div>
+            <!--footer-->
+            <footer class="section footer pt-5">
+                <div class="footer-main">
+                    <div class="container-fluid">
+                        <div class="row">
+                            <div class="col-lg-7">
+                                <div class="row">
+                                    <div class="col-md-5 ">
+                                        <div class="edugate-widget widget">
+                                            <div class="title-widget">TutorialsTeacher.com</div>
+                                            <div class="content-widget">
+                                                <p>
+                                                    TutorialsTeacher.com is optimized for learning web technologies step by step.
+                                                    Examples might be simplified to improve reading and basic understanding.
+                                                    While using this site, you agree to have read and accepted our terms
+                                                    of use and <a href="/aboutus/privacy-policy">privacy policy</a>.
+                                                </p>
+                                                <div class="info-list">
+                                                    <ul class="list-unstyled">
+                                                        <li><i class="fa fa-envelope-o"></i><a href="/cdn-cgi/l/email-protection#9ff9fafafbfdfefcf4dfebeaebf0edf6fef3ecebfafefcf7faedb1fcf0f2"> <span class="__cf_email__" data-cfemail="14727171707675777f546061607b667d757867607175777c71663a777b79">[email&#160;protected]</span></a></li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-7">
+                                        <div class="useful-link-widget widget">
+                                            <div class="title-widget">Tutorials</div>
+                                            <div class="content-widget">
+                                                <div class="useful-link-list">
+                                                    <div class="row">
+                                                        <div class="col-md-6 col-sm-6">
+                                                            <ul class="list-unstyled">
+                                                                <li><i class="fa fa-angle-right"></i><a href="/core">ASP.NET Core</a></li>
+                                                                <li><i class="fa fa-angle-right"></i><a href="/mvc/asp.net-mvc-tutorials">ASP.NET MVC</a></li>
+                                                                <li><i class="fa fa-angle-right"></i><a href="/ioc">IoC</a></li>
+                                                                <li><i class="fa fa-angle-right"></i><a href="/webapi/web-api-tutorials">Web API</a></li>
+                                                                <li><i class="fa fa-angle-right"></i><a href="/csharp/csharp-tutorials">C#</a></li>
+                                                                <li><i class="fa fa-angle-right"></i><a href="/linq/linq-tutorials">LINQ</a></li>
+                                                                <li>
+                                                                    <i class="fa fa-angle-right"></i><a href="https://www.entityframeworktutorial.net"
+                                                                                                        target="_blank" rel="nofollow">Entity Framework</a>
+                                                                </li>
+                                                            </ul>
+                                                        </div>
+                                                        <div class="col-md-6 col-sm-6 ">
+                                                            <ul class="list-unstyled">
+                                                                <li><i class="fa fa-angle-right"></i><a href="/angularjs/angularjs-tutorials">AngularJS 1</a></li>
+                                                                <li><i class="fa fa-angle-right"></i><a href="/nodejs/nodejs-tutorials">Node.js</a></li>
+                                                                <li><i class="fa fa-angle-right"></i><a href="/d3js">D3.js</a></li>
+                                                                <li><i class="fa fa-angle-right"></i><a href="/javascript/javascript-tutorials">JavaScript</a></li>
+                                                                <li><i class="fa fa-angle-right"></i><a href="/jquery/jquery-tutorials">jQuery</a></li>
+                                                                <li><i class="fa fa-angle-right"></i><a href="/sass">Sass</a></li>
+                                                                <li><i class="fa fa-angle-right"></i><a href="/https">Https</a></li>
+                                                            </ul>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="col-lg-4">
+                                <div class="row">
+                                    <div class="col-md-12 ">
+                                        <div class="mailing-widget widget">
+                                            <div class="title-widget">E-mail list</div>
+                                            <div class="content-wiget">
+                                                <p>
+                                                    Subscribe to TutorialsTeacher email list and get latest updates, tips &amp;
+                                                    tricks on C#, .Net, JavaScript, jQuery, AngularJS, Node.js to your inbox.
+                                                </p>
+                                                <form action="https://tutorialsteacher.us13.list-manage.com/subscribe/post-json?u=78cbe5cadd7cc1475359445ad&id=d119ae6be2" method="post" id="subscribe-form" name="subscribe-form" class="validate" novalidate>
+                                                    <div class="input-group">
+                                                        <input type="text" placeholder="Email address" class="form-control form-email-widget" name="MERGE0" id="MERGE0" size="25" /><span class="input-group-btn"><input type="submit" value="Go" name="subscribe" id="mc-embedded-subscribe" class="btn btn-email" /></span>
+                                                    </div>
+
+                                                    <div id="mce-responses" class="clear">
+                                                        <div class="response" id="mce-error-response" style="display: none"></div>
+                                                        <div class="response" id="mce-success-response" style="display: none"></div>
+                                                    </div>
+                                                    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+                                                    <div style="position: absolute; left: -5000px;" aria-hidden="true">
+                                                        <input type="text" name="b_659e2cbd2829799e7dc94ae35_93dae2ea03" tabindex="-1" value="" />
+                                                    </div>
+                                                    <div class="alert-success" id="successMsg"></div>
+                                                    <div class="alert-danger" id="failMsg"></div>
+
+                                                </form>
+                                                <p>We respect your privacy.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="row hyperlink text-center text-md-left">
+                            <div class="col-md-6 hyper-left">
+                                <ul class="list-inline">
+                                    <li class="list-inline-item"><a href="/">HOME</a></li>
+                                    <li class="list-inline-item"><a href="/aboutus/privacy-policy">PRIVACY POLICY</a></li>
+                                    <li class="list-inline-item"><a href="/aboutus/terms-of-use">TERMS OF USE</a></li>
+                                    <li class="list-inline-item"><a href="/aboutus/advertise">ADVERTISE WITH US</a></li>
+                                </ul>
+                            </div>
+                            <div class="col-md-6 hyper-right text-center text-md-right">
+                                <i class="fa fa-copyright" aria-hidden="true"></i> 2020 TutorialsTeacher.com. All Rights Reserved.
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </footer>
+            <!--end footer-->
+        </section>
+    </div>
+    <!--ttfooterlinks-min-->
+    <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script>
+    window.jQuery || document.write('<script src="/Content/scripts/jquery-3.3.1.min.js" ><\/script>');
+    </script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+    <script>
+    window.Popper || document.write('<script src="/Content/scripts/popper.min.js" ><\/script>');
+    </script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0/js/bootstrap.min.js"></script>
+    <script>
+    if (!$.fn.modal) {
+        document.write('<link rel="stylesheet" href="/Content/css/bootstrap.min.css"/>');
+        document.write('<script src="/Content/scripts/bootstrap.min.js"><\/script>');
+    }
+    </script>
+</body>
+</html>
