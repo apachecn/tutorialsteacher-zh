@@ -466,7 +466,7 @@
 +   [Python 公共、受保护、私有成员](493.md)
 +   [Python 中的装饰器](494.md)
 +   [Python 属性装饰器-`@property`](495.md)
-+   [Python 类方法装饰器@类方法](496.md)
++   [Python 类方法装饰器`@classmethod`](496.md)
 +   [在 Python 中使用@staticmethod Decorator 定义静态方法](497.md)
 +   [Python 魔术或邓德方法](498.md)
 +   [Python 中的数据库 CRUD 操作](499.md)
